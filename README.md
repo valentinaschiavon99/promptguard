@@ -14,10 +14,11 @@ notebook/ – Jupyter Notebook with all steps and results
 🚀 Get Started
 
 Clone the repository and install requirements:
-
+```bash
 git clone https://github.com/valentinaschiavon99/promptguard
 cd promptguard
 pip install -r requirements.txt
+```
 
 📊 Evaluation Strategy
 
