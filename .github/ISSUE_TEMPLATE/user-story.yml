@@ -1,0 +1,48 @@
+---
+name: User Story
+about: Add a new feature request or task as a user story
+title: "[Story] "
+labels: [story]
+assignees: valentinaschiavon99
+
+body:
+  - type: markdown
+    attributes:
+      value: "## 🎯 User Story"
+  - type: input
+    id: user
+    attributes:
+      label: As a...
+      placeholder: developer, researcher, student, user...
+    validations:
+      required: true
+  - type: input
+    id: goal
+    attributes:
+      label: I want to...
+      placeholder: accomplish a specific goal...
+    validations:
+      required: true
+  - type: input
+    id: reason
+    attributes:
+      label: So that...
+      placeholder: benefit or reason for this story
+    validations:
+      required: true
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      placeholder: |
+        - [ ] Task 1
+        - [ ] Task 2
+        - [ ] Task 3
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      placeholder: |
+        - [ ] Criteria 1
+        - [ ] Criteria 2
+        - [ ] Criteria 3
