@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Add a new feature request or task as a user story
+description: Add a new feature request or task as a user story
 title: "[Story] "
 labels: [story]
 assignees: valentinaschiavon99
