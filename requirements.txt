@@ -12,3 +12,6 @@ numpy
 typer
 rich
 wdd
+fastapi
+uvicorn
+
