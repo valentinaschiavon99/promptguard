@@ -8,3 +8,7 @@ jupyter
 python-dotenv
 numpy
 sentence-transformers
+numpy
+typer
+rich
+wdd
