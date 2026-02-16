@@ -6,6 +6,8 @@ results/
 .idea
 .vscode
 *.iml
+.github
+
 
 
 
